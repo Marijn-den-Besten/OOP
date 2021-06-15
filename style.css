@@ -1,0 +1,58 @@
+.container {
+    background: url("https://i.redd.it/o8a7u5vl6hb41.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#pickachudiv {
+    text-align: center;
+    /*margin: 0 auto;*/
+}
+
+#charmeleondiv {
+    text-align: center;
+    /*margin: 0 auto;*/
+}
+
+#pickachu {
+    /*float: left;*/
+}
+
+#charmeleon {
+    /*float: right;*/
+}
+
+.pokemon {
+    width: 150px;
+    height: 180px;
+}
+
+.Pikachu {
+    display: block;
+    border: solid 1px;
+    width: 100px;
+    font-size: 20px;
+    position: absolute;
+}
+
+.Charmander {
+    display: block;
+    border: solid 1px;
+    width: 100px;
+    font-size: 20px;
+    float: right;
+    position: relative;
+}
+
+.yeeter {
+    color: red;
+}
+
+#WeaknessPika, #WeaknessChar, #HPPokemonPika, #HPPokemonChar, #Resistancepika, #ResistanceChar {
+    width: 100px;
+}
+
+.btn {
+    margin-top: 550px;
+}
